@@ -3,7 +3,7 @@ import { Provider } from 'react-redux';
 import store from './Store/store';
 import Home from './Pages/Home';
 import Cart from './Pages/Cart';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 
 function App() {
     return (
